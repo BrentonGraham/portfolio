@@ -9,7 +9,7 @@ My name is Brenton Graham and I am currently a Master's (MS) student studying Bi
 
 
 #### Biomedical Machine Learning  
-This section includes work from a Biomedical Machine Learning course I took at CU Anschutz.
+This section includes work from a Biomedical Machine Learning course I took at CU Anschutz. Each assignment came with a provided data set (some clean, some not) and general assignment goals. No solutions were provided, however, and assignments were somewhat open-ended, so all code and work is original.  
 
 | Topic | Description | ML Techniques | Code / Notebook |
 | :---: | :---: | :---: | :---: | 
