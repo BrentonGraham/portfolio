@@ -13,7 +13,7 @@ This section includes work from a Biomedical Machine Learning course I took at C
 
 | Topic | Description | Code / Notebook |
 | :---: | :---: | :---: | 
-| Linear Regression |  |
+| Linear Regression | Predicting treatment response (systolic blood pressure) using linear and polynomial regression | [Link] (https://github.com/BrentonGraham/biomedical-ml-anschutz/blob/main/1.%20Linear%20Regression/LinearRegression.ipynb) |
 | Real World Regression |  |
 | Logistic Regression & Cross-Validation|  |
 | Classification |  |
