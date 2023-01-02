@@ -1,4 +1,4 @@
-# Brenton Graham Data Science Portfolio
+# Brenton Graham - Data Science Portfolio
 
 ## Introduction  
 
@@ -8,9 +8,18 @@
 #### Research  
 
 
-
 #### Biomedical Machine Learning  
 This section includes work from a Biomedical Machine Learning course I took at CU Anschutz.
+
+| Topic | Description | Code / Notebook |
+| :---: | :---: | :---: | 
+| Linear Regression |  |
+| Real World Regression |  |
+| Logistic Regression & Cross-Validation|  |
+| Classification |  |
+| Clustering |  |
+| Deep Learning: MLP |  |
+| Deep Learning: CNN |  |
 
 ### Statistical Inference
 #### Research
@@ -19,6 +28,6 @@ This section includes work from a Biomedical Machine Learning course I took at C
 #### Other
 
 
-### Automation
+## Other Packages
 
 
