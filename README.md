@@ -6,7 +6,7 @@ My name is Brenton Graham and I am currently a Master's (MS) student studying Bi
 ## Projects  
 ### Machine Learning & Deep Learning
 #### Research  
-
+This section includes work from my research position at CU Anschutz. My work here has focused on multi-omics data (primarily 16S rRNA microbiome data) in the context of cystic fibrosis (CF) and rheumatoid arthritis (RA). Not all work here is published. Most work was done for exploration.  
 
 #### Biomedical Machine Learning  
 This section includes work from a Biomedical Machine Learning course I took at CU Anschutz. Each assignment came with a provided data set (some clean, some not) and general assignment goals. No solutions were provided, however, and assignments were somewhat open-ended, so all code and work is original.  
@@ -23,7 +23,7 @@ This section includes work from a Biomedical Machine Learning course I took at C
 
 ### Statistical Inference
 #### Research
-
+This section includes work from my research position at CU Anschutz. My work here has focused on multi-omics data (primarily 16S rRNA microbiome data) in the context of cystic fibrosis (CF) and rheumatoid arthritis (RA). Not all work here is published. Most work was done for exploration.  
 
 #### Other
 
