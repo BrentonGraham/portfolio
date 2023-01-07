@@ -1,4 +1,4 @@
-# Brenton Graham - Data Science Portfolio
+# Brenton Graham Portfolio
 
 ## Introduction  
 My name is Brenton Graham and I am currently a Master's student (MS) studying Biostatistics at the University of Colorado, Anschutz Medical Campus (CU Anschutz). In this repository I organize machine learning and statistical inference work from research projects, personal projects, and course-related projects. 
