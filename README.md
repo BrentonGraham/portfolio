@@ -32,11 +32,11 @@ This section includes projects from advanced statistical analysis and longitudin
 
 | Topic | Description | Code | Report |
 | :---: | :---: | :---: | :---: | 
-| Linear Regression |  | []() | []() |
-| Bayesian Inference |  | []() | []() |
-|  |  | []() | []() |
-|  |  | []() | []() |
-| Latent Class Analysis |  | []() | []() |
+| Regression |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-1-regression/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-1-regression/reports/regression-gum-disease-report.pdf) |
+| Bayesian Inference |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-2-bayesian-inference/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-2-bayesian-inference/reports/bayesian-inf-report.pdf) |
+| Survival Analysis |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-3-survival-analysis/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-3-survival-analysis/reports/survival-analysis-report.pdf) |
+| Variable Selection Comparison (Simulation Study) |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-4-variable-selection-sim/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-4-variable-selection-sim/reports/variable-selection-sim-report.pdf) |
+| Latent Class Analysis (Longitudinal Study) |  | | [Repo](https://github.com/BrentonGraham/inference-anschutz/tree/main/longitudinal-latent-class-analysis) |
 
 ## Additional Packages & Tools
 
