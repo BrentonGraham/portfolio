@@ -1,15 +1,17 @@
 # Brenton Graham - Data Science Portfolio
 
 ## Introduction  
-My name is Brenton Graham and I am currently a Master's (MS) student studying Biostatistics at the University of Colorado, Anschutz Medical Campus. In this repository I organize relevant work from research projects, personal projects, and course-related projects that employ machine learning and statistical inference techniques. My work primarily focuses on biological data problems (e.g. multi-omics data, clinical data, etc), although I am interested in applying my skillset to non-biological problems. Programming languages include Python, R, and SAS.  
+My name is Brenton Graham and I am currently a Master's student (MS) studying Biostatistics at the University of Colorado, Anschutz Medical Campus (CU Anschutz). In this repository I organize machine learning and statistical inference work from my research projects, personal projects, and course-related projects. 
+
+As background, I am currently working as a Graduate Research Assistant in the Department of Biostatistics and Informatics at CU Anschutz. My work here has focused on multi-omics data (primarily 16S rRNA microbiome data) in the context of cystic fibrosis (CF) and rheumatoid arthritis (RA). As such, my work primarily focuses on biological data problems (e.g. multi-omics data, clinical data, etc), although I am interested in applying my skillset to non-biological problems. Programming languages include Python, R, and SAS.  
 
 ## Projects  
 ### Machine Learning & Deep Learning
 #### Research  
-This section includes work from my research position at CU Anschutz. My work here has focused on multi-omics data (primarily 16S rRNA microbiome data) in the context of cystic fibrosis (CF) and rheumatoid arthritis (RA). Not all work here is published. Most work was done for exploration. Data are protected and are therefore not available for public viewing.  
+This section includes machine learning work from my research position at CU Anschutz. Note that most data sets are protected and are therefore not available for public viewing.  
 
 #### Biomedical Machine Learning  
-This section includes work from a Biomedical Machine Learning course I took at CU Anschutz. Each assignment came with a provided data set (some clean, some not) and general assignment goals. No solutions were provided, however, and assignments were somewhat open-ended, so all code and work is original.  
+This section includes work from a Biomedical Machine Learning course at CU Anschutz. Each assignment came with a provided data set (some clean, some not) and general assignment goals. No solutions were provided, however, and assignments were somewhat open-ended, so all code and work is original.  
 
 | Topic | Description | ML Techniques | Code / Notebook |
 | :---: | :---: | :---: | :---: | 
@@ -22,11 +24,19 @@ This section includes work from a Biomedical Machine Learning course I took at C
 | Deep Learning: CNN | Building a convolutional neural network (CNN) to classify skin lesion type from skin images (multiclass classification problem). Dataset comes from [MedMNIST](https://medmnist.com/) (DermaMNIST). | Convolutional Neural Network (Tensorflow) | [Notebook](https://github.com/BrentonGraham/biomedical-ml-anschutz/blob/main/7.%20Convolutional%20Neural%20Networks/ConvolutionalNeuralNetworks.ipynb), [CNN.py](https://github.com/BrentonGraham/biomedical-ml-anschutz/blob/main/7.%20Convolutional%20Neural%20Networks/ConvNetwork.py) |
 
 ### Statistical Inference
-#### Research
-This section includes work from my research position at CU Anschutz. My work here has focused on multi-omics data (primarily 16S rRNA microbiome data) in the context of cystic fibrosis (CF) and rheumatoid arthritis (RA). Not all work here is published. Most work was done for exploration.  
+#### Research  
+This section includes statistical inference work from my research position at CU Anschutz. Note that most data sets are protected and are therefore not available for public viewing.  
 
-#### Other
+#### Course-Related Statistical Analysis Projects 
+This section includes projects from advanced statistical analysis and longitudinal data analysis courses at CU Anschutz.  
 
+| Topic | Description | Code | Report |
+| :---: | :---: | :---: | :---: | 
+| Linear Regression |  | []() | []() |
+| Bayesian Inference |  | []() | []() |
+|  |  | []() | []() |
+|  |  | []() | []() |
+| Latent Class Analysis |  | []() | []() |
 
 ## Additional Packages & Tools
 
