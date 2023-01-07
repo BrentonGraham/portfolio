@@ -5,6 +5,7 @@ My name is Brenton Graham and I am currently a Master's student (MS) studying Bi
 
 As background, I am currently working as a Graduate Research Assistant in the Department of Biostatistics and Informatics at CU Anschutz. My work here has focused on multi-omics data (primarily 16S rRNA microbiome data) in the context of cystic fibrosis (CF) and rheumatoid arthritis (RA). As such, my work primarily focuses on biological data problems (e.g. multi-omics data, clinical data, etc), although I am interested in applying my skillset to non-biological problems. Programming languages include Python, R, and SAS.  
 
+
 ## Projects  
 ### Machine Learning & Deep Learning
 #### Research  
@@ -23,6 +24,7 @@ This section includes work from a Biomedical Machine Learning course at CU Ansch
 | Deep Learning: MLP | Building simple neural networks (single-layer and multi-layer perceptrons) to classify cancer from gene expression data. Additionally testing the performance of a linear classifier to evaluate similarities with the single-layer perceptron build. | Multi-Layer Perceptron (Tensorflow) | [Notebook](https://github.com/BrentonGraham/biomedical-ml-anschutz/blob/main/6.%20Intro%20to%20Deep%20Learning/IntroDeepLearning.ipynb), [MLP.py](https://github.com/BrentonGraham/biomedical-ml-anschutz/blob/main/6.%20Intro%20to%20Deep%20Learning/NN_MultiLayer.py) |
 | Deep Learning: CNN | Building a convolutional neural network (CNN) to classify skin lesion type from skin images (multiclass classification problem). Dataset comes from [MedMNIST](https://medmnist.com/) (DermaMNIST). | Convolutional Neural Network (Tensorflow) | [Notebook](https://github.com/BrentonGraham/biomedical-ml-anschutz/blob/main/7.%20Convolutional%20Neural%20Networks/ConvolutionalNeuralNetworks.ipynb), [CNN.py](https://github.com/BrentonGraham/biomedical-ml-anschutz/blob/main/7.%20Convolutional%20Neural%20Networks/ConvNetwork.py) |
 
+
 ### Statistical Inference
 #### Research  
 This section includes statistical inference work from my research position at CU Anschutz. Note that most data sets are protected and are therefore not available for public viewing.  
@@ -37,6 +39,7 @@ This section includes projects from advanced statistical analysis and longitudin
 | Survival Analysis |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-3-survival-analysis/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-3-survival-analysis/reports/survival-analysis-report.pdf) |
 | Variable Selection Comparison (Simulation Study) |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-4-variable-selection-sim/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-4-variable-selection-sim/reports/variable-selection-sim-report.pdf) |
 | Latent Class Analysis (Longitudinal Study) |  | | [Repo](https://github.com/BrentonGraham/inference-anschutz/tree/main/longitudinal-latent-class-analysis) |
+
 
 ## Additional Packages & Tools
 
