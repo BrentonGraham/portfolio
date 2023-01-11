@@ -11,14 +11,14 @@ This section includes machine learning and statistical inference work from my re
 ### Rheumatoid Arthritis (RA)
 #### Biomarker Analysis
 Anti-cyclic citrullinated peptide (anti-CCP, or CCP) antibodies and rheumatoid factors (RF) serve as a clinically valuable biomarkers in the diagnosis and prognosis of RA. In this project we explore the association between these biomarkers and RA progression.
-| Description | Code / Report |
-| :---: | :---: |
-| Classification of subject CCP status from stool microbiome (16S) data using Random Forest, Support Vector Machines, XGBoost, and Multi-Layer Perceptron classifiers | |
+
+* Differential abundance analysis ([Project Folder], [Report])
+* Classification of subject CCP status from stool microbiome (16S) data using Random Forest, Support Vector Machines, XGBoost, and Multi-Layer Perceptron classifiers ([Notebook])
 
 ### Cystic Fibrosis (CF)
-| Description | Code / Report |
-| :---: | :---: |
-| Analyzing treatment response trajectory over the course of a pulmonary exacerbation (PEx) using a longitudinal latent class analysis approach | [Repo](https://github.com/BrentonGraham/inference-anschutz/tree/main/longitudinal-latent-class-analysis) |
+#### Pulmonary Exacerbation (PEx) Repeated Measure Study
+
+* Analyzing treatment response trajectory over the course of a pulmonary exacerbation (PEx) using a longitudinal latent class analysis approach ([Repo](https://github.com/BrentonGraham/inference-anschutz/tree/main/longitudinal-latent-class-analysis))
 
 
 ## Other Projects  
