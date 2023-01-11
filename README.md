@@ -13,7 +13,7 @@ This section includes machine learning and statistical inference work from my re
 Anti-cyclic citrullinated peptide (anti-CCP, or CCP) antibodies and rheumatoid factors (RF) serve as a clinically valuable biomarkers in the diagnosis and prognosis of RA. In this project we explore the association between these biomarkers and RA progression.
 | Description | Methods | Code / Report |
 | :---: | :---: | :---: |
-| Classification of subject CCP status from stool microbiome (16S) data. | Random Forest, Support Vector Machines, XGBoost, Multi-Layer Perceptron | |
+| Classification of subject CCP status from stool microbiome (16S) data using Random Forest, Support Vector Machines, XGBoost, and Multi-Layer Perceptron classifiers | |
 
 ### Cystic Fibrosis (CF)
 | Description | Code / Notebook |
