@@ -8,9 +8,9 @@ As background, I am currently working as a Graduate Research Assistant in the De
 ## Research
 This section includes machine learning and statistical inference work from my research position at CU Anschutz. Note that most data sets are protected and are therefore not available for public viewing.  
 
-### Rheumatoid Arthritis (RA) Biomarker Analysis
+### Rheumatoid Arthritis (RA)
+#### Biomarker Analysis
 Anti-cyclic citrullinated peptide (anti-CCP, or CCP) antibodies and rheumatoid factors (RF) serve as a clinically valuable biomarkers in the diagnosis and prognosis of RA. In this project we explore the association between these biomarkers and RA progression.
-
 | Sub-Project Aim | Description | Methods | Code / Notebook |
 | :---: | :---: | :---: | :---: |
 | Classification | Prediction of subject CCP status from stool microbiome (16S) data. | Random Forest, Support Vector Machines, XGBoost, Multi-Layer Perceptron | |
@@ -19,6 +19,7 @@ Anti-cyclic citrullinated peptide (anti-CCP, or CCP) antibodies and rheumatoid f
 | Project Aim | Description | Methods | Code / Notebook |
 | :---: | :---: | :---: | :---: |
 | Latent Class Analysis (Longitudinal Study) |  |  | [Repo](https://github.com/BrentonGraham/inference-anschutz/tree/main/longitudinal-latent-class-analysis) |
+
 
 ## Other Projects  
 ### Machine Learning & Deep Learning
@@ -46,6 +47,7 @@ This section includes projects from advanced statistical analysis and longitudin
 | Bayesian Inference |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-2-bayesian-inference/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-2-bayesian-inference/reports/bayesian-inf-report.pdf) |
 | Survival Analysis |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-3-survival-analysis/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-3-survival-analysis/reports/survival-analysis-report.pdf) |
 | Variable Selection Comparison (Simulation Study) |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-4-variable-selection-sim/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-4-variable-selection-sim/reports/variable-selection-sim-report.pdf) |
+
 
 ## Additional Packages & Tools
 
