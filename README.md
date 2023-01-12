@@ -12,8 +12,8 @@ This section includes machine learning and statistical inference work from my re
 #### ALTRA: RA Biomarker Study
 Anti-cyclic citrullinated peptide (anti-CCP, or CCP) antibodies and rheumatoid factors (RF) serve as a clinically valuable biomarkers in the diagnosis and prognosis of RA. In this project we explore the association between these biomarkers and microbiome (16S) data from sputum and stool specimens.
 
-* Comparing microbial communities of CCP+ and CCP- groups using PERMANOVA and differential abundance analysis ([Repo](https://github.com/BrentonGraham/ALTRA/tree/main/inference))
-* Classification of subject CCP status from stool microbiome (16S) data using Random Forest, Support Vector Machines, XGBoost, and Multi-Layer Perceptron classifiers ([Notebook](https://github.com/BrentonGraham/ALTRA/blob/main/ml/ccp%2B_vs_ccp-_classification.ipynb), [Models](https://github.com/BrentonGraham/ALTRA/tree/main/ml/models))
+* Comparing microbial communities of CCP+ and CCP- groups using PERMANOVA and differential abundance analysis [[Repo](https://github.com/BrentonGraham/ALTRA/tree/main/inference)]
+* Classification of subject CCP status from stool microbiome (16S) data using Random Forest, Support Vector Machines, XGBoost, and Multi-Layer Perceptron classifiers [[Notebook](https://github.com/BrentonGraham/ALTRA/blob/main/ml/ccp%2B_vs_ccp-_classification.ipynb), [Models](https://github.com/BrentonGraham/ALTRA/tree/main/ml/models)]
 
 ### Cystic Fibrosis (CF)
 #### Pulmonary Exacerbation (PEx) Longitudinal Study
