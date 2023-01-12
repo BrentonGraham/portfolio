@@ -19,7 +19,7 @@ Anti-cyclic citrullinated peptide (anti-CCP, or CCP) antibodies and rheumatoid f
 #### Pulmonary Exacerbation (PEx) Longitudinal Study
 Pulmonary exacerbations are a leading cause of morbidity in CF. In this study, CF patients are evaluated at three time points over the course of a PEx. Data include clinical outcome measurements, demographic information, and microbiome data from sputum samples.
 
-* Analyzing treatment response trajectory over the course of a pulmonary exacerbation (PEx) using a longitudinal latent class mixed modeling approach ([Repo](https://github.com/BrentonGraham/inference-anschutz/tree/main/longitudinal-latent-class-analysis), [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/longitudinal-latent-class-analysis/reports/lca-final-report.pdf)))
+* Analyzing treatment response trajectory over the course of a pulmonary exacerbation (PEx) using a longitudinal latent class mixed modeling approach [[Repo](https://github.com/BrentonGraham/inference-anschutz/tree/main/longitudinal-latent-class-analysis), [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/longitudinal-latent-class-analysis/reports/lca-final-report.pdf)]
 
 
 ## Other Projects  
