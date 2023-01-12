@@ -9,10 +9,10 @@ As background, I am currently working as a Graduate Research Assistant in the De
 This section includes machine learning and statistical inference work from my research position at CU Anschutz. Note that most data sets are protected and are therefore not available for public viewing.  
 
 ### Rheumatoid Arthritis (RA)
-#### Biomarker Analysis
+#### ALTRA: RA Biomarker Study
 Anti-cyclic citrullinated peptide (anti-CCP, or CCP) antibodies and rheumatoid factors (RF) serve as a clinically valuable biomarkers in the diagnosis and prognosis of RA. In this project we explore the association between these biomarkers and microbiome (16S) data from sputum and stool specimens.
 
-* Comparing microbial communities of CCP+ and CCP- groups using PERMANOVA and differential abundance analysis([Repo](https://github.com/BrentonGraham/ALTRA/tree/main/inference))
+* Comparing microbial communities of CCP+ and CCP- groups using PERMANOVA and differential abundance analysis ([Repo](https://github.com/BrentonGraham/ALTRA/tree/main/inference))
 * Classification of subject CCP status from stool microbiome (16S) data using Random Forest, Support Vector Machines, XGBoost, and Multi-Layer Perceptron classifiers ([Notebook](https://github.com/BrentonGraham/ALTRA/blob/main/ml/ccp%2B_vs_ccp-_classification.ipynb), [Models](https://github.com/BrentonGraham/ALTRA/tree/main/ml/models))
 
 ### Cystic Fibrosis (CF)
