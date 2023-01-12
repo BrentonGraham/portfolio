@@ -7,9 +7,7 @@ As background, I am currently working as a Graduate Research Assistant in the De
 
 <br>
 
-## Research
-This section includes machine learning and statistical inference work from my research position at CU Anschutz. Note that most data sets are protected and are therefore not available for public viewing.  
-
+## Research at CU Anschutz
 ### Rheumatoid Arthritis (RA)
 #### ALTRA: RA Biomarker Study
 Anti-cyclic citrullinated peptide (anti-CCP, or CCP) antibodies and rheumatoid factors (RF) serve as a clinically valuable biomarkers in the diagnosis and prognosis of RA. In this project we explore the association between these biomarkers and microbiome (16S) data from sputum and stool specimens.
