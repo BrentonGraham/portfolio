@@ -8,18 +8,14 @@ As background, I am currently working as a Graduate Research Assistant in the De
 <br>
 
 ## Research at CU Anschutz
-### Rheumatoid Arthritis (RA)
-#### ALTRA: RA Biomarker Study
+### ALTRA: A Rheumatoid Arthritis Biomarker Study
 Anti-cyclic citrullinated peptide (anti-CCP, or CCP) antibodies and rheumatoid factors (RF) serve as a clinically valuable biomarkers in the diagnosis and prognosis of RA. In this project we explore the association between these biomarkers and microbiome (16S) data from sputum and stool specimens.
 
 * Comparing microbial communities of CCP+ and CCP- groups with PERMANOVA and differential abundance analysis [[Repo](https://github.com/BrentonGraham/ALTRA/tree/main/inference), [Report](https://github.com/BrentonGraham/altra/blob/main/inference/altra-inference.md)]
 * Classification of subject CCP status from stool microbiome (16S) data using Random Forest, Support Vector Machines, XGBoost, and Multi-Layer Perceptron classifiers [[Notebook](https://github.com/BrentonGraham/ALTRA/blob/main/ml/ccp%2B_vs_ccp-_classification.ipynb), [Models](https://github.com/BrentonGraham/ALTRA/tree/main/ml/models)]
 
-<br>
-
-### Cystic Fibrosis (CF)
-#### Pulmonary Exacerbation (PEx) Longitudinal Study
-Pulmonary exacerbations are a leading cause of morbidity in CF. In this study, CF patients are evaluated at three time points over the course of a PEx. Data include clinical outcome measurements, demographic information, and microbiome data from sputum samples.
+### A Longitudinal Pulmonary Exacerbation Study in Cystic Fribrosis Patients
+Pulmonary exacerbations (PEx) are a leading cause of morbidity in CF. In this study, CF patients are evaluated at three time points over the course of a PEx. Data include clinical outcome measurements, demographic information, and microbiome data from sputum samples.
 
 * Analyzing treatment response trajectory over the course of a pulmonary exacerbation (PEx) using a longitudinal latent class mixed modeling approach [[Repo](https://github.com/BrentonGraham/inference-anschutz/tree/main/longitudinal-latent-class-analysis), [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/longitudinal-latent-class-analysis/reports/lca-final-report.pdf)]
 
