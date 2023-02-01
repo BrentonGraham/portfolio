@@ -45,13 +45,13 @@ This section includes projects from advanced statistical analysis and longitudin
 
 | Topic | Description | Code | Report |
 | :---: | :---: | :---: | :---: | 
-| Regression |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-1-regression/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-1-regression/reports/regression-gum-disease-report.pdf) |
-| Bayesian Inference |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-2-bayesian-inference/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-2-bayesian-inference/reports/bayesian-inf-report.pdf) |
-| Survival Analysis |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-3-survival-analysis/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-3-survival-analysis/reports/survival-analysis-report.pdf) |
-| Variable Selection Comparison (Simulation Study) |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-4-variable-selection-sim/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-4-variable-selection-sim/reports/variable-selection-sim-report.pdf) |
+| Bayesian Inference | Evaluating the association between treatment response and hard drug use in HIV-1 positive subjects using both a frequentist framework (i.e., multiple linear regression) and a Bayesian framework (i.e., Bayesian regression with rjags). | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-2-bayesian-inference/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-2-bayesian-inference/reports/bayesian-inf-report.pdf) |
+| Survival Analysis w/ the LASSO | Identifying risk factors associated with stroke incidence and estimating 10-year probability of stroke using a LASSO-penalized Cox regression framework. | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-3-survival-analysis/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-3-survival-analysis/reports/survival-analysis-report.pdf) |
+| Variable Selection Method Comparison (A Simulation Study) |  | [Code](https://github.com/BrentonGraham/inference-anschutz/tree/main/adv-methods-4-variable-selection-sim/code) | [Report](https://github.com/BrentonGraham/inference-anschutz/blob/main/adv-methods-4-variable-selection-sim/reports/variable-selection-sim-report.pdf) |
 
 <br>
 
-## Additional Packages & Tools
-
+## Additional Packages, Tools & Software
+* [Google Review Webscraper](https://github.com/BrentonGraham/google-review-scraper): A python package that uses Selenium to webscrape google reviews
+* [Southwest Check In](https://github.com/BrentonGraham/southwest-check-in): A python package that automates the Southwest check in process using Selenium
 
